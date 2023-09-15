@@ -9,7 +9,7 @@
 	"dependencies": {
 		"@types/helmet": "^4.0.0",
 		"express": "^4.14.0",
-		"helmet": "^2.3.0",
+		"helmet": "^3.23.3",
 		"yarn": "^1.22.19"
 	},
 	"keywords": [
